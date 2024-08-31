@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gtQSTOvk1U99XbAc2tvCT33QGo2TV4gB/7pzY7L0gDc=",
+  "Source": "FinService.API",
+  "BasePath": "_content/FinService.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
